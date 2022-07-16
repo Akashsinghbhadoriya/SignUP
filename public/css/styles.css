@@ -1,0 +1,14 @@
+body{
+    background-color: cornsilk;
+}
+
+section{
+    text-align: center;
+}
+
+button{
+    background-color: #24a0ed;
+    color: white;
+    width: 100px;
+    height: 30px;
+}
